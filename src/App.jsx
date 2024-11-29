@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from "react";
-import Note from "./components/note";
+import Note from "./components/Note";
 import "./App.css";
 import { motion } from "framer-motion";
 import { ToastContainer, toast } from "react-toastify";
